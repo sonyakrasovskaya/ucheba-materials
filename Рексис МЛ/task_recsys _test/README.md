@@ -1,0 +1,26 @@
+# Pet Projects
+
+Коллекция проектов по машинному обучению и анализу данных.
+
+## 📁 Проекты
+
+### 1. [Gradient Descent Optimization](./gradient_descent/)
+Исследование различных методов оптимизации градиентного спуска.
+
+### 2. [Recommendation System](./recommendation_system/)
+Система персональных рекомендаций на основе collaborative filtering и content-based подходов.
+
+### 3. [EDA & KNN Classification](./eda_knn_classification/)
+Исследовательский анализ данных и классификация с использованием метода k-ближайших соседей.
+
+## 🛠 Технологии
+
+- Python
+- Jupyter Notebook
+- Scikit-learn
+- Pandas, NumPy
+- Scipy
+
+## 📝 Лицензия
+
+Этот репозиторий содержит учебные проекты для портфолио.

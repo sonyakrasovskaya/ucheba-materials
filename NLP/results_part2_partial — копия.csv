@@ -1,0 +1,3 @@
+model_name,best_val_accuracy
+sberbank-ai/ruBert-base,0.8226112634465302
+cointegrated/rubert-tiny2,0.7840118118540392

@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# Секреты и конфиги
+.env
+.env.local
+*.pem
+
+# Временные файлы Office / macOS
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Тяжёлые артефакты обучения и модели (не для репозитория)
+out_rubert_base/
+**/checkpoint-*/
+*.safetensors
+**/optimizer.pt
+**/best_model.pt
+
+# Большие датасеты и медиа (GitHub не принимает файлы >100 MB)
+YearPredictionMSD.txt
+*.mp4
+*.rar
+
+# Прочее
+*.log
+.cache/
+.cursor/
+.virtual_documents/
+*.pages
+*.pt
